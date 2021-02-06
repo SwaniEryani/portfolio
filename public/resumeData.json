@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Silwan Al-Eryani",
+    "occupation": "Full Stack developer",
+    "description": "You can call me Swani ^_^",
+    "image": "profilepic.jpg",
+    "bio": "Hello World! I am Silwan! A full stack developer with hands-on experience in using new technologies to build web applications, 2 years of experience in WordPress sites. More than 5 years’ experience in graphic designing with Adobe package. Administration skills including MS Suite, client services, problem solving and scheduling of meetings. I am passionate about web development and programming because I love to make clients visions for web applications come to life. Recently completed a Full Stack developer bootcamp. Excellent ability to learn new technologies and tools. Eager to build my professional experience and apply recent knowledge.",
+    "contactmessage": "Get in touch with me",
+    "email": "aleryaniailwan@gmail.com",
+    "phone": "+1 (873)-660-6766",
+    "address": {
+      "street": "Edgeworth Ave ",
+      "city": "Ottawa",
+      "state": "Ontario",
+      "zip": "K2B 5L5"
+    },
+    "website": "https://www.swanipro.com",
+    "resumedownload": "/images/portfolio/Silwan_Al-Eryani_Full_Stack_developer (1).pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/silwan-al-eryani",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SwaniEryani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Lighthouse labs - Ottawa, Canada",
+        "degree": "Web Development bootcamp ",
+        "graduated": "4-Nov-2020 ",
+        "description": "Web Development Bootcamp transform me into a professional web developer. where I understand coding logic using popular languages and frameworks like JavaScript, while learning how to think like a programmer by building software from the ground up."
+      },
+      {
+        "school": "Oracle university - Yemen",
+        "degree": "Certificate: Oracle database 11g",
+        "graduated": "4-Jun-2014",
+        "description": "Database administrator (DBA)- administration workshop"
+      },
+      {
+        "school": "Oracle university -Sana'a Yemen",
+        "degree": "Certificate Oracle database 12c",
+        "graduated": "4-Jun-2014",
+        "description": "introduction to SQL"
+      },
+      {
+        "school": "Sana'a university- Yemen",
+        "degree": "Bachelor's Degree, Computing and Information Systems",
+        "graduated": "June 2012",
+        "description": "Graduated with very good"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance ",
+        "title": "Web Developer & Graphic Designer ",
+        "years": "Apr. 2020 - Present",
+        "description": "Making websites and enjoy playing with color; visualizing clients ideas and making them come to life on the screen "
+      },
+      {
+        "company": "In-TAC - Ottawa, Canada ",
+        "title": "Web Developer & Graphic Designer",
+        "years": "Oct.2019 – Apr.2020(6 months)",
+        "description": "Produce graphics to promote In-TAC activities (Using Adobe Photoshop), Edit and review the current Website (Using Wordpress), Edit and review the current events app (vfairs.com) and the information site., Worked with a cross functional team of 7, including BDO’s, Managements, IT, and Project Managers to ensure the desired marketing material were created, Created all the marketing material for Canada’s largest Virtual Career Fair which had over 4000 participants and over 50 employers, Created the graphics for the project proposal to market to employers across Canada"
+      },
+      {
+        "company": "Canadian Public Health Association - Ottawa, Canada ",
+        "title": "Web Developer & Graphic Designer",
+        "years": "Jan.2020 – Mar.2020 (3 months)",
+        "description": "Edited the current Website with new updated content and reviewed the content using Drupal).Created information site for different events and created the css files for the sites (using eventsair).Produced graphics to promote CPHA activates (Using Adobe suite)."
+      },
+      {
+        "company": "Henri Reddinger - Budapest, Hungary",
+        "title": "Website Administrator & Developer ",
+        "years": "Mar.2017 - Oct.2017 (7 months)",
+        "description": "Managed, Edited, Improved and developed the current websites. Develop SEO. Tracking and analysis of the websites and the Ads to ensure marketing efforts were working and that the site was getting attention "
+      },
+      {
+        "company": "Fli institute - Sanaa, Yemen  ",
+        "title": "Website Administrator & Developer • Mar.2017-Oct.2017 ",
+        "years": " Aug.2013 - Aug.2015 (3 years)",
+        "description": "Part-time role. Created all the printable materials and all the marketing materials for the social media. Created attractive brochures and flyers for advertising."
+      },
+      {
+        "company": " Hadramout Investment Power Company Limited - Sanaa, Yemen  ",
+        "title": "Administrative Assistant and IT support ",
+        "years": " Apr.2013 - Oct.2015 (3.5 years)",
+        "description": " IT problem solving, such as installing new programs, managing passwords and access to websites, updating the website on daily bases. Maintaining databases and filing systems to make sure everything is up to date and accurate. Managing correspondence via email, phone, fax and in person between branches in two different cities for seamless communication"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Library (EJS)",
+        "category": "",
+        "image": "library.jpg",
+        "url": "https://library-try.herokuapp.com/"
+      },
+      {
+        "title": "dogwood Express (React JS)",
+        "category": "",
+        "image": "dogwoodExpress.jpg",
+        "url": "https://dogwoodexpress.com/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "fanFinder.gif",
+        "url": "https://github.com/SwaniEryani/FAN-FINDR"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Silwan  is absolutely excellent, her depth of knowledge & her exprince really helped me alot... I would definitely recommend",
+        "user": "Fatima"
+      }
+     
+    ]
+  }
+}
