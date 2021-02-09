@@ -129,13 +129,19 @@
         "url": "https://library-try.herokuapp.com/"
       },
       {
+        "title": "Netflix clone (React Redux App)",
+        "category": "",
+        "image": "netflixclone.jpg",
+        "url": "https://netflix-clone-75f54.web.app/"
+      },
+      {
         "title": "dogwood Express (React JS)",
         "category": "",
         "image": "dogwoodExpress.jpg",
         "url": "https://dogwoodexpress.com/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Find Findr (React JS)",
         "category": "",
         "image": "fanFinder.gif",
         "url": "https://github.com/SwaniEryani/FAN-FINDR"
@@ -145,7 +151,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Silwan  is absolutely excellent, her depth of knowledge & her exprince really helped me alot... I would definitely recommend",
+        "text": "Silwan is absolutely excellent, her depth of knowledge & her exprince really helped me alot... I would definitely recommend",
         "user": "Fatima"
       }
      
