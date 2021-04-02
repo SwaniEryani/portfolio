@@ -27,15 +27,34 @@ const Resume = ({ data }) => {
         </div>
       );
     });
-    var skills = data.skills.map(function (skills) {
-      var className = "bar-expand " + skills.name.toLowerCase();
-      return (
-        <li key={skills.name}>
-          <span style={{ width: skills.level }} className={className}></span>
-          <em>{skills.name}</em>
-        </li>
+    
+    var pics= data.pics.map((pic)=>{
+      var picImage = "images/portfolio/skills/" + pic.image;
+      return(
+        <div key={pic.title} className="columns portfolio-item">
+          <div className="item-wrap">
+            <a href={pic.url} title={pic.title}>
+              <img alt={pic.title} src={picImage} />
+              <div className="overlay">
+                <div className="portfolio-item-meta">
+                  <h5>{pic.title}</h5>
+                  <p>{pic.category}</p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
       );
     });
+    // var skills = data.skills.map(function (skills) {
+    //   var className = "bar-expand " + skills.name.toLowerCase();
+    //   return (
+    //     <li key={skills.name}>
+    //       <span style={{ width: skills.level }} className={className}></span>
+    //       <em>{skills.name}</em>
+    //     </li>
+    //   );
+    // });
   }
 
   return (
@@ -73,10 +92,13 @@ const Resume = ({ data }) => {
 
         <div className="nine columns main-col">
           <p>{skillmessage}</p>
-
-          <div className="bars">
-            <ul className="skills">{skills}</ul>
-          </div>
+          
+          
+          <div
+            id="portfolio-wrapper"
+            className="bgrid-quarters s-bgrid-thirds cf"
+          >{pics}</div>
+          
         </div>
       </div>
     </section>

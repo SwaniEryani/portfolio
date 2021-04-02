@@ -50,7 +50,7 @@
         "description": "Database administrator (DBA)- administration workshop"
       },
       {
-        "school": "Oracle university -Sana'a Yemen",
+        "school": "Oracle university - Yemen",
         "degree": "Certificate Oracle database 12c",
         "graduated": "4-Jun-2014",
         "description": "introduction to SQL"
@@ -99,7 +99,6 @@
         "years": " Apr.2013 - Oct.2015 (3.5 years)",
         "description": " IT problem solving, such as installing new programs, managing passwords and access to websites, updating the website on daily bases. Maintaining databases and filing systems to make sure everything is up to date and accurate. Managing correspondence via email, phone, fax and in person between branches in two different cities for seamless communication"
       }
-      
     ],
     "skills": [
       {
@@ -118,6 +117,105 @@
         "name": "Web Development",
         "level": "95%"
       }
+    ],
+    "pics": [
+      {
+        "title": "ReactJs",
+        "category": "",
+        "image": "react.png",
+        "url": ""
+      },
+      {
+        "title": "Node Js",
+        "category": "",
+        "image": "node.png",
+        "url": ""
+      },
+      {
+        "title": "JavaScript",
+        "category": "",
+        "image": "javascript.png",
+        "url": ""
+      },
+      {
+        "title": "CSS",
+        "category": "",
+        "image": "css.png",
+        "url": ""
+      },
+      {
+        "title": "HTML",
+        "category": "",
+        "image": "html.png",
+        "url": ""
+      },
+      {
+        "title": "Express",
+        "category": "",
+        "image": "express.png",
+        "url": ""
+      },
+      {
+        "title": "Cypress",
+        "category": "",
+        "image": "cypress.webp",
+        "url": ""
+      },
+      {
+        "title": "REST API",
+        "category": "",
+        "image": "API.png",
+        "url": ""
+      },
+      {
+        "title": "Git",
+        "category": "",
+        "image": "git.png",
+        "url": ""
+      },
+      {
+        "title": "Github",
+        "category": "",
+        "image": "github.png",
+        "url": ""
+      },
+      {
+        "title": "Chai",
+        "category": "",
+        "image": "chai.png",
+        "url": ""
+      },
+      {
+        "title": "Mocha",
+        "category": "",
+        "image": "mocha.png",
+        "url": ""
+      },
+      {
+        "title": "Ajax",
+        "category": "",
+        "image": "ajax.png",
+        "url": ""
+      },
+      {
+        "title": "Redux",
+        "category": "",
+        "image": "redux.png",
+        "url": ""
+      },
+      {
+        "title": "jQuery",
+        "category": "",
+        "image": "jQuery.png",
+        "url": ""
+      },
+      {
+        "title": "firebase",
+        "category": "",
+        "image": "firebase.webp",
+        "url": ""
+      }
+
     ]
   },
   "portfolio": {
@@ -129,10 +227,10 @@
         "url": "https://library-try.herokuapp.com/"
       },
       {
-        "title": "Netflix clone (React Redux App)",
+        "title": "Netflix clone (React JS)",
         "category": "",
         "image": "netflixclone.jpg",
-        "url": "https://netflix-clone-75f54.web.app/"
+        "url": "https://netflix-clone-75f54.web.app"
       },
       {
         "title": "dogwood Express (React JS)",
@@ -141,7 +239,13 @@
         "url": "https://dogwoodexpress.com/"
       },
       {
-        "title": "Find Findr (React JS)",
+        "title": "Friends Of Yemen (Wordpress)",
+        "category": "",
+        "image": "Friendsofyemen.jpg",
+        "url": "https://friendsofyemen.org/"
+      },
+      {
+        "title": "Fan Finder (React JS)",
         "category": "",
         "image": "fanFinder.gif",
         "url": "https://github.com/SwaniEryani/FAN-FINDR"
@@ -151,10 +255,9 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Silwan is absolutely excellent, her depth of knowledge & her exprince really helped me alot... I would definitely recommend",
+        "text": "Silwan  is absolutely excellent, her depth of knowledge & her exprince really helped me alot... I would definitely recommend",
         "user": "Fatima"
       }
-     
     ]
   }
 }
